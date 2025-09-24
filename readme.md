@@ -30,3 +30,7 @@ The goal of this HR Analytics Dashboard is to:
 
 - Job Satisfaction Insights:
   - Job role vs Satisfaction Ratings (Heatmap)
+
+## Dashboard
+
+![hr dashboard](screenshot/dashboard.png)
