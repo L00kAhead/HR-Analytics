@@ -34,3 +34,6 @@ The goal of this HR Analytics Dashboard is to:
 ## Dashboard
 
 ![hr dashboard](screenshot/dashboard.png)
+
+TODO: 
+[] Build this using the POWERBI
